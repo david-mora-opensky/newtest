@@ -5,9 +5,9 @@
 }
 
 .wy-nav-side{
-background: --main-bg-purple;
+background: var(--main-bg-purple);
 }
 
 .wy-side-nav-search{
-background: --main-bg-blue;
+background: var(--main-bg-blue);
 }
