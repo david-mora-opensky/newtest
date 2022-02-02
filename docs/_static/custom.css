@@ -1,15 +1,13 @@
-body{
-    background: red;
-}
-
-a{
-    color: aqua;
+:root {
+    --main-bg-blue: #3eaeb3;
+    --main-bg-purple: #54137d;
+    --main-primay-font: 'Roboto', Sans-serif
 }
 
 .wy-nav-side{
-background: #540880;
+background: --main-bg-purple;
 }
 
 .wy-side-nav-search{
-background: #40B4B3;
+background: --main-bg-blue;
 }
